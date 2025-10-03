@@ -33,14 +33,12 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-// ⚡ Thêm dòng này để luôn redirect HTTPS
 app.UseHttpsRedirection();
 
 app.UseStaticFiles();
 
 app.UseRouting();
 
-// ⚡ Đặt UseCors TRƯỚC UseAuthorization
 app.UseCors("AllowAll");
 
 app.UseAuthorization();
