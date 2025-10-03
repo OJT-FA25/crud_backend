@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "B6eQgcpCyfw=",
+  "dgSpecHash": "aMhpTb2XY1Y=",
   "success": true,
-  "projectFilePath": "D:\\academy\\OJT\\OJT_CRUD\\crud_backend\\crud_backend.csproj",
+  "projectFilePath": "D:\\academy\\OJT\\OJT_FA25\\crud_backend\\crud_backend.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\tamin\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\tamin\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\tamin\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
     "C:\\Users\\tamin\\.nuget\\packages\\microsoft.build.framework\\17.8.3\\microsoft.build.framework.17.8.3.nupkg.sha512",

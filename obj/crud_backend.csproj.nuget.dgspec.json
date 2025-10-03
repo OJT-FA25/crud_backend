@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\academy\\OJT\\OJT_CRUD\\crud_backend\\crud_backend.csproj": {}
+    "D:\\academy\\OJT\\OJT_FA25\\crud_backend\\crud_backend.csproj": {}
   },
   "projects": {
-    "D:\\academy\\OJT\\OJT_CRUD\\crud_backend\\crud_backend.csproj": {
+    "D:\\academy\\OJT\\OJT_FA25\\crud_backend\\crud_backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\academy\\OJT\\OJT_CRUD\\crud_backend\\crud_backend.csproj",
+        "projectUniqueName": "D:\\academy\\OJT\\OJT_FA25\\crud_backend\\crud_backend.csproj",
         "projectName": "crud_backend",
-        "projectPath": "D:\\academy\\OJT\\OJT_CRUD\\crud_backend\\crud_backend.csproj",
+        "projectPath": "D:\\academy\\OJT\\OJT_FA25\\crud_backend\\crud_backend.csproj",
         "packagesPath": "C:\\Users\\tamin\\.nuget\\packages\\",
-        "outputPath": "D:\\academy\\OJT\\OJT_CRUD\\crud_backend\\obj\\",
+        "outputPath": "D:\\academy\\OJT\\OJT_FA25\\crud_backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -51,6 +51,10 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
